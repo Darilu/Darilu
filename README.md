@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me danilo.ps101@gmail.com
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
 <!---
 Darilu/Darilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
